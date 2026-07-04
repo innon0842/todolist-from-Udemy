@@ -1,4 +1,3 @@
-import { list } from "postcss";
 import NewTask from "./NewTask";
 
 export default function Tasks({ tasks, onAdd, onDelete }) {
